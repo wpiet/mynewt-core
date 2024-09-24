@@ -1,12 +1,3 @@
-Porting Mynewt OS
-=================
-
-.. toctree::
-   :hidden:
-
-   port_bsp
-   port_mcu
-   port_cpu
 
 This chapter describes how to adapt the Mynewt OS to different
 platforms.

@@ -1,14 +1,3 @@
-Drivers
-=======
-
-.. toctree::
-   :hidden:
-
-   flash <flash>
-   mmc <mmc>
-   Charge Control <chg_ctrl/chg_ctrl>
-
-
 Description
 ~~~~~~~~~~~
 

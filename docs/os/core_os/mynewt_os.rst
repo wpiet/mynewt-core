@@ -1,21 +1,6 @@
 Apache Mynewt Operating System Kernel
 ======================================
 
-.. toctree::
-   :hidden:
-
-   context_switch/context_switch
-   task/task
-   mutex/mutex
-   semaphore/semaphore
-   event_queue/event_queue
-   callout/callout
-   heap/heap
-   memory_pool/memory_pool
-   mbuf/mbuf
-   cputime/os_cputime
-   time/os_time
-   sanity/sanity
 
 The Mynewt Core OS is a multitasking, preemptive real-time operating
 system combining a scheduler with typical RTOS features such as mutexes,

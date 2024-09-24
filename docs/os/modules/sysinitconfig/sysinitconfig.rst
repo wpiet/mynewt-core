@@ -1,11 +1,3 @@
-Compile-Time Configuration
------------------------------------------------
-
-.. toctree::
-   :hidden:
-
-   sysconfig_error
-
 This guide describes how Mynewt manages system configuration.  It shows
 you how to tell Mynewt to use default or customized values to
 configure packages that you develop or use to build a target. This

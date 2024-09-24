@@ -15,13 +15,6 @@
   # limitations under the License.
   #
   
-Charge control drivers
-----------------------
-
-.. toctree::
-   :hidden:
-
-   SGM4056 <sgm4056>
 
 The charge control drivers provides support for various battery chargers. They 
 provide a abstract ``hw/charge-control`` Battery Charge Controller IC Interface.

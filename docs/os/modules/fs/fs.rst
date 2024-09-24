@@ -1,14 +1,3 @@
-File System Abstraction
-=======================
-
-.. toctree::
-   :hidden:
-
-   nffs
-   fatfs
-   otherfs
-   fs_add
-
 Mynewt provides a file system abstraction layer (``fs/fs``) to allow
 client code to be file system agnostic. By accessing the file system via
 the ``fs/fs`` API, client code can perform file system operations
